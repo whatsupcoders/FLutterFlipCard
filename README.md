@@ -1,16 +1,35 @@
 # flutterflipcard
 
-A new Flutter project.
+Flutter Tutorial - Flutter FlipCard
+Flutter Tutorial - Flutter FlipCard Video series can be watched here https://youtu.be/6qezV0jGChk
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+we will see how to use Flutter Flip_Card Plugin in your Flutter application. I have also included a demo page illustrating Business Card Usecase using Flip_Card Plugin.
+ 
+ 
+ For more details about Flip_Card Plugin check this link 
+https://pub.dartlang.org/packages/flip_card
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FLutterFlipCard/blob/master/assets/Screenshot_1560464138.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                     <img src="https://github.com/whatsupcoders/FLutterFlipCard/blob/master/assets/Screenshot_1560464142.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FLutterFlipCard/blob/master/assets/flipgif.gif" width="200"/>
+            </td>
+        </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
-A few resources to get you started if this is your first Flutter project:
+FOLLOW ME HERE:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
